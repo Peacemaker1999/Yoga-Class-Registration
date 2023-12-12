@@ -6,7 +6,7 @@ include('includes/dbconnection.php');
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Yoga Classes Registration System | About Us</title>
+	<title>Yoga Classes Registration System | About Us Page</title>
 	
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="css/bootstrap.min.css"/>
