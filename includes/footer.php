@@ -90,7 +90,7 @@ foreach($results as $row)
 				
 					<div class="col-md-8 text-md-right">
 						<div class="copyright">
-							<p style="color: red">Yoga Classes Registartion System @ 2020</p>
+							<p style="color: red">Yoga Classes Registartion System by Himanshi Painuly</p>
 						</div>
 					</div>
 				</div>
