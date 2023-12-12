@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','yoga-db.cmd8tlr2pjas.eu-west-1.rds.amazonaws.com');
+define('DB_HOST','myyoga-db.cg4hxtvibvro.us-east-1.rds.amazonaws.com');
 define('DB_USER','admin');
-define('DB_PASS','admin2001');
+define('DB_PASS','himanshi23');
 define('DB_NAME','YogaClass');
 // Establish database connection.
 try
