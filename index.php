@@ -87,7 +87,7 @@ include('includes/dbconnection.php');
 		<div class="container">
 			<div class="section-title text-center">
 				<img src="img/icons/logo-icon.png" alt="">
-				<h2>Welcome to Yoga Classes</h2>
+				<h2>Welcome to Yoga</h2>
 				<p>Yoga is a journey to finding that balance, both on and off the mat. A yoga practice stretches and strengthens our bodies; it teaches us to mindfully move and connect with our breath, which leads us to be mindful and present in our daily tasks. It teaches us the freedom to be still and connects us.!</p>
 			</div>
 			<div class="row">
